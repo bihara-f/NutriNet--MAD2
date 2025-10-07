@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Basic Fitness Package",
+        "price": "2500 LKR",
+        "description": "Essential fitness package for beginners with personalized workout plans",
+        "image": "asset\/diet-planner.jpg",
+        "duration_days": 30,
+        "category": "fitness",
+        "rating": 4.5,
+        "reviews_count": 120,
+        "features": [
+            "Basic workout plan",
+            "Diet guidelines",
+            "Weekly check-ins"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Premium Workout Package",
+        "price": "4500 LKR",
+        "description": "Advanced training with personalized coaching and nutrition",
+        "image": "asset\/fittrain.jpeg",
+        "duration_days": 60,
+        "category": "premium",
+        "rating": 4.8,
+        "reviews_count": 89,
+        "features": [
+            "Personal trainer",
+            "Custom meal plans",
+            "Daily support"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Ultimate Transformation",
+        "price": "7500 LKR",
+        "description": "Complete fitness and nutrition transformation program",
+        "image": "asset\/nutri+fitness.png",
+        "duration_days": 90,
+        "category": "transformation",
+        "rating": 4.9,
+        "reviews_count": 156,
+        "features": [
+            "Complete transformation",
+            "24\/7 support",
+            "Meal delivery"
+        ]
+    }
+]

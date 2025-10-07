@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "title": "Weight Loss Plan",
+    "description": "A comprehensive 30-day weight loss diet plan with balanced nutrition and calorie control.",
+    "duration": "30 days",
+    "price": "LKR 2500",
+    "image": "asset/diet-planner.jpg",
+    "category": "Weight Management",
+    "difficulty": "Beginner",
+    "meals": [
+      {
+        "time": "Breakfast",
+        "food": "Oatmeal with mixed berries and almonds",
+        "calories": 300,
+        "protein": "12g",
+        "carbs": "45g",
+        "fat": "8g"
+      },
+      {
+        "time": "Mid-Morning Snack",
+        "food": "Greek yogurt with honey",
+        "calories": 150,
+        "protein": "15g",
+        "carbs": "12g",
+        "fat": "3g"
+      },
+      {
+        "time": "Lunch",
+        "food": "Grilled chicken breast with quinoa and steamed vegetables",
+        "calories": 450,
+        "protein": "35g",
+        "carbs": "40g",
+        "fat": "12g"
+      },
+      {
+        "time": "Afternoon Snack",
+        "food": "Apple with peanut butter",
+        "calories": 180,
+        "protein": "6g",
+        "carbs": "20g",
+        "fat": "8g"
+      },
+      {
+        "time": "Dinner",
+        "food": "Baked salmon with sweet potato and green beans",
+        "calories": 400,
+        "protein": "30g",
+        "carbs": "25g",
+        "fat": "18g"
+      }
+    ],
+    "benefits": [
+      "Sustainable weight loss of 1-2 kg per week",
+      "Improved metabolism and energy levels",
+      "Better digestive health",
+      "Reduced risk of chronic diseases"
+    ],
+    "nutritionist": "Dr. Sarah Johnson",
+    "rating": 4.8,
+    "reviews": 156
+  },
+  {
+    "id": 2,
+    "title": "Muscle Gain Plan",
+    "description": "High protein diet plan designed for muscle building and strength enhancement.",
+    "duration": "45 days",
+    "price": "LKR 3000",
+    "image": "asset/fittrain.jpeg",
+    "category": "Muscle Building",
+    "difficulty": "Intermediate",
+    "meals": [
+      {
+        "time": "Breakfast",
+        "food": "Protein smoothie with banana, oats, and whey protein",
+        "calories": 400,
+        "protein": "30g",
+        "carbs": "35g",
+        "fat": "12g"
+      },
+      {
+        "time": "Mid-Morning Snack",
+        "food": "Cottage cheese with nuts",
+        "calories": 200,
+        "protein": "20g",
+        "carbs": "8g",
+        "fat": "10g"
+      },
+      {
+        "time": "Lunch",
+        "food": "Lean beef with brown rice and mixed vegetables",
+        "calories": 600,
+        "protein": "40g",
+        "carbs": "50g",
+        "fat": "18g"
+      },
+      {
+        "time": "Pre-Workout",
+        "food": "Banana with almond butter",
+        "calories": 220,
+        "protein": "6g",
+        "carbs": "30g",
+        "fat": "8g"
+      },
+      {
+        "time": "Post-Workout",
+        "food": "Protein shake with chocolate milk",
+        "calories": 250,
+        "protein": "25g",
+        "carbs": "20g",
+        "fat": "5g"
+      },
+      {
+        "time": "Dinner",
+        "food": "Grilled salmon with quinoa and asparagus",
+        "calories": 500,
+        "protein": "35g",
+        "carbs": "30g",
+        "fat": "22g"
+      }
+    ],
+    "benefits": [
+      "Lean muscle mass increase of 2-4 kg",
+      "Enhanced strength and power",
+      "Improved athletic performance",
+      "Better recovery and reduced muscle soreness"
+    ],
+    "nutritionist": "Dr. Mike Thompson",
+    "rating": 4.9,
+    "reviews": 89
+  },
+  {
+    "id": 3,
+    "title": "Diabetes Management",
+    "description": "Specialized diet plan for managing blood sugar levels and maintaining stable glucose.",
+    "duration": "60 days",
+    "price": "LKR 3500",
+    "image": "asset/nutri.jpeg",
+    "category": "Medical Diet",
+    "difficulty": "Beginner",
+    "meals": [
+      {
+        "time": "Breakfast",
+        "food": "Steel-cut oats with cinnamon and walnuts",
+        "calories": 250,
+        "protein": "8g",
+        "carbs": "30g",
+        "fat": "10g"
+      },
+      {
+        "time": "Mid-Morning Snack",
+        "food": "Greek yogurt with berries",
+        "calories": 120,
+        "protein": "12g",
+        "carbs": "15g",
+        "fat": "2g"
+      },
+      {
+        "time": "Lunch",
+        "food": "Grilled fish with cauliflower rice and broccoli",
+        "calories": 300,
+        "protein": "25g",
+        "carbs": "15g",
+        "fat": "12g"
+      },
+      {
+        "time": "Afternoon Snack",
+        "food": "Handful of almonds",
+        "calories": 160,
+        "protein": "6g",
+        "carbs": "6g",
+        "fat": "14g"
+      },
+      {
+        "time": "Dinner",
+        "food": "Chicken salad with olive oil dressing",
+        "calories": 350,
+        "protein": "30g",
+        "carbs": "12g",
+        "fat": "20g"
+      }
+    ],
+    "benefits": [
+      "Better blood sugar control",
+      "Reduced HbA1c levels",
+      "Weight management",
+      "Improved heart health",
+      "Lower risk of complications"
+    ],
+    "nutritionist": "Dr. Priya Patel",
+    "rating": 4.7,
+    "reviews": 203
+  },
+  {
+    "id": 4,
+    "title": "Heart Healthy Plan",
+    "description": "DASH diet inspired plan for cardiovascular health and blood pressure management.",
+    "duration": "30 days",
+    "price": "LKR 2800",
+    "image": "asset/enjoy-life.jpg",
+    "category": "Heart Health",
+    "difficulty": "Beginner",
+    "meals": [
+      {
+        "time": "Breakfast",
+        "food": "Whole grain toast with avocado and tomato",
+        "calories": 280,
+        "protein": "8g",
+        "carbs": "35g",
+        "fat": "12g"
+      },
+      {
+        "time": "Lunch",
+        "food": "Mediterranean bowl with hummus and vegetables",
+        "calories": 420,
+        "protein": "15g",
+        "carbs": "50g",
+        "fat": "16g"
+      },
+      {
+        "time": "Dinner",
+        "food": "Baked cod with herbs and roasted vegetables",
+        "calories": 380,
+        "protein": "28g",
+        "carbs": "25g",
+        "fat": "15g"
+      }
+    ],
+    "benefits": [
+      "Lower blood pressure",
+      "Reduced cholesterol levels",
+      "Improved heart health",
+      "Better circulation"
+    ],
+    "nutritionist": "Dr. Emma Wilson",
+    "rating": 4.6,
+    "reviews": 134
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "title": "Diet Plan",
+    "price": "700 LKR",
+    "originalPrice": "900 LKR",
+    "image": "asset/diet-planner.jpg",
+    "description": "Comprehensive diet planning with personalized nutritional guidance tailored to your specific health goals and dietary preferences.",
+    "duration": "30 days",
+    "category": "Nutrition",
+    "rating": 4.8,
+    "reviews": 245,
+    "features": [
+      "Personalized meal plans based on your goals",
+      "24/7 nutritionist support via chat",
+      "Weekly progress tracking and adjustments",
+      "Grocery shopping lists included",
+      "Recipe variations for meal diversity",
+      "Mobile app access for easy tracking"
+    ],
+    "includes": [
+      "Initial consultation (30 minutes)",
+      "Custom meal planning",
+      "Nutritional analysis",
+      "Progress monitoring",
+      "Recipe database access"
+    ],
+    "suitableFor": ["Weight loss", "Weight gain", "Maintenance", "Special diets"],
+    "testimonial": {
+      "name": "Sarah M.",
+      "text": "Lost 8kg in 2 months with this amazing plan!",
+      "rating": 5
+    }
+  },
+  {
+    "id": 2,
+    "title": "Fitness Training",
+    "price": "700 LKR",
+    "originalPrice": "1000 LKR",
+    "image": "asset/fittrain.jpeg",
+    "description": "Professional fitness training sessions with certified trainers to help you achieve your fitness goals safely and effectively.",
+    "duration": "1 month",
+    "category": "Fitness",
+    "rating": 4.9,
+    "reviews": 189,
+    "features": [
+      "Certified personal trainer sessions",
+      "Customized workout plans",
+      "Equipment usage guidance",
+      "Form correction and safety tips",
+      "Progress tracking and measurements",
+      "Flexible scheduling options"
+    ],
+    "includes": [
+      "Fitness assessment",
+      "4 weekly training sessions",
+      "Home workout alternatives",
+      "Nutrition tips for fitness",
+      "Progress photos and measurements"
+    ],
+    "suitableFor": ["Beginners", "Intermediate", "Strength training", "Cardio fitness"],
+    "testimonial": {
+      "name": "John D.",
+      "text": "Best investment for my health. Gained so much strength!",
+      "rating": 5
+    }
+  },
+  {
+    "id": 3,
+    "title": "Nutritional Guidelines",
+    "price": "700 LKR",
+    "originalPrice": "850 LKR",
+    "image": "asset/nutri.jpeg",
+    "description": "Expert nutritional advice and comprehensive guidelines to optimize your health through proper nutrition and supplementation.",
+    "duration": "Ongoing",
+    "category": "Nutrition",
+    "rating": 4.7,
+    "reviews": 167,
+    "features": [
+      "Comprehensive nutrition consultation",
+      "Supplement recommendations",
+      "Health condition-specific advice",
+      "Lab result interpretation",
+      "Ongoing support and guidance",
+      "Educational resources and materials"
+    ],
+    "includes": [
+      "Initial health assessment",
+      "Personalized nutrition plan",
+      "Supplement protocol",
+      "Monthly check-ins",
+      "Email support"
+    ],
+    "suitableFor": ["Health optimization", "Medical conditions", "Sports nutrition", "General wellness"],
+    "testimonial": {
+      "name": "Maria L.",
+      "text": "Finally understand how to eat for my health condition!",
+      "rating": 5
+    }
+  },
+  {
+    "id": 4,
+    "title": "Diet Plan + Fitness Training",
+    "price": "1000 LKR",
+    "originalPrice": "1400 LKR",
+    "image": "asset/dietfit.webp",
+    "description": "Perfect combination of personalized diet planning and professional fitness training for optimal health and body transformation results.",
+    "duration": "6 weeks",
+    "category": "Combo",
+    "rating": 4.9,
+    "reviews": 312,
+    "features": [
+      "Complete diet and fitness integration",
+      "Coordinated meal and workout timing",
+      "Dual expert support system",
+      "Faster results through synergy",
+      "Comprehensive progress tracking",
+      "Lifestyle modification guidance"
+    ],
+    "includes": [
+      "Everything from Diet Plan package",
+      "Everything from Fitness Training package",
+      "Integrated approach coordination",
+      "Priority support access"
+    ],
+    "suitableFor": ["Body transformation", "Weight loss", "Muscle building", "Athletic performance"],
+    "testimonial": {
+      "name": "Alex R.",
+      "text": "Amazing results! Lost fat and gained muscle simultaneously.",
+      "rating": 5
+    },
+    "savings": "Save 400 LKR compared to individual packages"
+  },
+  {
+    "id": 5,
+    "title": "Nutritional Guidelines + Fitness Training",
+    "price": "1200 LKR",
+    "originalPrice": "1650 LKR",
+    "image": "asset/nutri+fitness.png",
+    "description": "Holistic health approach combining expert nutritional guidance with professional fitness training for comprehensive wellness.",
+    "duration": "8 weeks",
+    "category": "Combo",
+    "rating": 4.8,
+    "reviews": 198,
+    "features": [
+      "Medical-grade nutrition assessment",
+      "Fitness programs adapted to health status",
+      "Supplement and exercise coordination",
+      "Health condition management",
+      "Long-term wellness planning",
+      "Regular health monitoring"
+    ],
+    "includes": [
+      "Everything from Nutritional Guidelines package",
+      "Everything from Fitness Training package",
+      "Health condition considerations",
+      "Extended support period"
+    ],
+    "suitableFor": ["Health conditions", "Chronic disease management", "Senior fitness", "Rehabilitation"],
+    "testimonial": {
+      "name": "Linda K.",
+      "text": "Perfect for managing my diabetes while staying fit!",
+      "rating": 5
+    },
+    "savings": "Save 450 LKR compared to individual packages"
+  },
+  {
+    "id": 6,
+    "title": "All In One Package",
+    "price": "1600 LKR",
+    "originalPrice": "2350 LKR",
+    "image": "asset/allinone.jpeg",
+    "description": "The ultimate comprehensive health and wellness package combining all our services for complete lifestyle transformation and optimal health.",
+    "duration": "12 weeks",
+    "category": "Premium",
+    "rating": 5.0,
+    "reviews": 423,
+    "features": [
+      "Complete health transformation system",
+      "All services perfectly integrated",
+      "Premium support and priority access",
+      "Regular health assessments",
+      "Lifestyle coaching included",
+      "Long-term maintenance planning"
+    ],
+    "includes": [
+      "Everything from all individual packages",
+      "Lifestyle coaching sessions",
+      "Monthly health assessments",
+      "Premium support access",
+      "Maintenance phase planning",
+      "Family nutrition guidance"
+    ],
+    "suitableFor": ["Complete transformation", "Long-term health goals", "Family wellness", "Premium experience"],
+    "testimonial": {
+      "name": "Michael T.",
+      "text": "Life-changing experience! Best decision I've ever made for my health.",
+      "rating": 5
+    },
+    "savings": "Save 750 LKR - Best Value!",
+    "badge": "Most Popular",
+    "bonuses": [
+      "Free family consultation",
+      "Exclusive recipe collection",
+      "Priority booking for all services",
+      "Extended support period"
+    ]
+  }
+]

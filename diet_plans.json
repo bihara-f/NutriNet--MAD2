@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Weight Loss Plan",
+        "price": "1800 LKR",
+        "description": "Comprehensive 30-day weight loss diet plan with calorie tracking",
+        "image": "asset\/diet-planner.jpg",
+        "duration_days": 30,
+        "category": "weight-loss",
+        "rating": 4.6,
+        "meal_types": [
+            "breakfast",
+            "lunch",
+            "dinner",
+            "snacks"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Muscle Gain Plan",
+        "price": "2200 LKR",
+        "description": "High protein diet plan for muscle building and strength",
+        "image": "asset\/fittrain.jpeg",
+        "duration_days": 45,
+        "category": "muscle-gain",
+        "rating": 4.7,
+        "meal_types": [
+            "breakfast",
+            "pre-workout",
+            "post-workout",
+            "lunch",
+            "dinner"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Balanced Nutrition Plan",
+        "price": "2000 LKR",
+        "description": "Balanced nutrition plan for overall health and wellness",
+        "image": "asset\/nutri.jpeg",
+        "duration_days": 30,
+        "category": "wellness",
+        "rating": 4.5,
+        "meal_types": [
+            "breakfast",
+            "lunch",
+            "dinner",
+            "healthy snacks"
+        ]
+    }
+]

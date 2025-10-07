@@ -1,0 +1,11 @@
+{
+  "shellcheck.enable": false,
+  "shellcheck.executablePath": "",
+  "bash-ide-vscode.shellcheckPath": "",
+  "files.associations": {
+    "*.dart": "dart"
+  },
+  "dart.flutterSdkPath": "",
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
